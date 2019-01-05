@@ -1,0 +1,1 @@
+worker: salasbot.py
