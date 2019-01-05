@@ -1,1 +1,1 @@
-worker: salasbot.py
+worker: bot.js
